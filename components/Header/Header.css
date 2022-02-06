@@ -1,0 +1,7 @@
+.header__wrapper {
+    color: #fff;
+}
+
+.header__cart:hover {
+    cursor: pointer;
+}

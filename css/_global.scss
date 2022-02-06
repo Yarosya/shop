@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 18px;
+}
+li{
+    list-style: none;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.fa-shopping-cart{
+    margin-right: 20px;
+    font-size: 30px;
+    color:rgb(122, 141, 17);
+    &:hover{
+        color:rgb(133, 25, 25);
+    }
+}

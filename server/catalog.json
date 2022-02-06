@@ -1,0 +1,63 @@
+[
+    {
+      "id": "1",
+      "name": " Asus ZenFone 8 (ZS590KS-2A011EU) 16/256GB Dual Sim Obsidian Black",
+      "img": "https://cdn.comfy.ua/media/catalog/product/a/s/asus_zenfone_8_zs590ks-2a011eu_16256gb_dual_sim_obsidian_black_1_.jpg",
+      "price": 13600
+    },
+    {
+      "id": "2",
+      "name": " Apple iPhone 11 64Gb BlackY",
+      "img": "https://cdn.comfy.ua/media/catalog/product/a/p/apple_iphone_11_64gb_black_0_3.jpg",
+      "price": 23900
+    },
+    {
+      "id": "3",
+      "name": " Xiaomi Poco X3 Pro 8/256Gb Frost Blue",
+      "img": "https://cdn.comfy.ua/media/catalog/product/j/2/j20s-blue-_.jpg",
+      "price": 8999
+    },
+    {
+      "id": "4",
+      "name": " Samsung Galaxy S21FE 6/128Gb Light Green (SM-G990BLGDSEK)",
+      "img": "https://cdn.comfy.ua/media/catalog/product/s/m/sm-g990_s21fe_back_lg_1_.jpg_.jpg",
+      "price": 21999
+    },
+    {
+      "id": "5",
+      "name": " Xiaomi 11 Lite 5G NE 8/128Gb Truffle Black",
+      "img": "https://cdn.comfy.ua/media/catalog/product/k/9/k9-black-__2.jpg",
+      "price": 11500
+    },
+    {
+      "id": "6",
+      "name": " vivo Y31 4/128Gb Racing Black",
+      "img": "https://cdn.comfy.ua/media/catalog/product/v/i/vivo_y31_4_128gb_racing_black.jpg",
+      "price": 9600
+    },
+    {
+      "id": "7",
+      "name": " realme C21Y 4/64Gb Blue",
+      "img": "https://cdn.comfy.ua/media/catalog/product/r/e/realme-c21-blue.jpg",
+      "price": 3600
+    },
+    {
+      "id": "8",
+      "name": " Samsung Galaxy A12 3/32Gb Red (SM-A127FZRUSEK)",
+      "img": "https://cdn.comfy.ua/media/catalog/product/s/m/sm_a125_galaxy_a12_red_back___1_.jpg",
+      "price": 28700
+    },
+    {
+      "id": "9",
+      "name": " ZTE Blade A51 2/32 GB Blue",
+      "img": "https://cdn.comfy.ua/media/catalog/product/z/t/zte_blade_a51_1-removebg-preview.png",
+      "price": 18100
+    },
+    {
+      "id": "10",
+      "name": " OPPO A54 4/64Gb Blue",
+      "img": "https://cdn.comfy.ua/media/catalog/product/o/p/oppo_a54_blue_2.jpg",
+      "price": 15990
+    }
+  ]
+  
